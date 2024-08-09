@@ -1,0 +1,1 @@
+#Este era para fazer a média de nota de um aluno, mas já foi feito no exercício 7
